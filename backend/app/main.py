@@ -1,10 +1,12 @@
 from fastapi import FastAPI
+from backend.app.routes.search import router as search_router
 
 app = FastAPI(
     title="Book Detective",
     description="An AI-powered book discovery application",
     version="1.0.0"
 )
+app.include_router(search_router, prefix="/search", tags=["Book Search"])
 
 
 @app.get("/")
