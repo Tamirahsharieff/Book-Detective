@@ -1,0 +1,52 @@
+[
+  {
+    "title": "The Secret Garden",
+    "authors": ["Frances Hodgson Burnett"],
+    "description": "A lonely young girl discovers a hidden garden in an old English manor. As she brings the garden back to life, she also transforms the lives of those around her.",
+    "genres": ["Children's Fiction", "Classic"],
+    "publication_year": 1911,
+    "setting": "An old English manor and its secret garden",
+    "characters": ["Mary Lennox", "Colin Craven", "Dickon Sowerby"],
+    "themes": ["Friendship", "Healing", "Nature"]
+  },
+  {
+    "title": "Harry Potter and the Philosopher's Stone",
+    "authors": ["J.K. Rowling"],
+    "description": "An orphaned boy discovers that he is a wizard and begins attending a magical school where he uncovers secrets about his past.",
+    "genres": ["Fantasy", "Adventure"],
+    "publication_year": 1997,
+    "setting": "Hogwarts School of Witchcraft and Wizardry",
+    "characters": ["Harry Potter", "Hermione Granger", "Ron Weasley"],
+    "themes": ["Friendship", "Magic", "Courage"]
+  },
+  {
+    "title": "The Hobbit",
+    "authors": ["J.R.R. Tolkien"],
+    "description": "A quiet hobbit joins a group of dwarves on a dangerous journey to reclaim their lost kingdom and treasure from a dragon.",
+    "genres": ["Fantasy", "Adventure"],
+    "publication_year": 1937,
+    "setting": "Middle-earth",
+    "characters": ["Bilbo Baggins", "Gandalf", "Thorin Oakenshield"],
+    "themes": ["Adventure", "Bravery", "Friendship"]
+  },
+  {
+    "title": "The Fault in Our Stars",
+    "authors": ["John Green"],
+    "description": "Two teenagers who meet at a cancer support group develop a deep relationship while navigating love, illness and life's uncertainties.",
+    "genres": ["Romance", "Young Adult"],
+    "publication_year": 2012,
+    "setting": "Contemporary United States and Amsterdam",
+    "characters": ["Hazel Grace Lancaster", "Augustus Waters"],
+    "themes": ["Love", "Loss", "Hope"]
+  },
+  {
+    "title": "And Then There Were None",
+    "authors": ["Agatha Christie"],
+    "description": "Ten strangers are invited to an isolated island, where they begin dying one by one according to a mysterious rhyme.",
+    "genres": ["Mystery", "Thriller"],
+    "publication_year": 1939,
+    "setting": "An isolated island off the English coast",
+    "characters": ["Vera Claythorne", "Philip Lombard", "Judge Wargrave"],
+    "themes": ["Guilt", "Suspense", "Justice"]
+  }
+]
