@@ -14,6 +14,6 @@ class ClueDB(Base):
 
     description = Column(Text, nullable=False)
 
-    confidence = Column(String(50), default="vague")
+    confidence = Column(String(50), default="vague", nullable=False)
 
-    created_at = Column(DateTime, server_default=func.now())
+    created_at = Column(DateTime, server_default=func.now(), nullable=False)
